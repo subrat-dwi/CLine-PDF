@@ -33,7 +33,7 @@ CLine-PDF is a command-line-based PDF generator that allows you to create and cu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CLine-PDF.git
+   git clone https://github.com/subrat-dwi/CLine-PDF.git
    cd CLine-PDF
 
 --- 
